@@ -1,5 +1,3 @@
-import java.util.Map;
-
 public class 机器人 {
     public static void main(String[] args) {
         /**
