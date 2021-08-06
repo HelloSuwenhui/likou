@@ -5,7 +5,7 @@ public class 机器人 {
          * 在1的位置只能跳到2，在N的位置只能跳到N-1，其他位置可以往左或者往右跳，
          * 从start的位置跳step步到end位置的不同跳法有多少种？
          */
-        int num = getNumbefore(7, 3, 6, 13);
+        int num = getNumbefore(5, 2, 3, 5);
         System.out.println(num);
     }
 
